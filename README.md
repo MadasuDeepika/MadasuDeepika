@@ -38,7 +38,7 @@
 	<code><a href = "https://docs.oracle.com/javase/tutorial/"> <img src = "https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> </a></code>
     	<code><a href = "https://code.visualstudio.com/"> <img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a></code>
 	<code><a href = "https://git-scm.com/"> <img src = "https://img.icons8.com/color/50/000000/git.png"/> </a></code>
-	<code><a href = "https://getbootstrap.com/"> <img src = "https://th.bing.com/th/id/OIP.TB0STQd-IsF8lV45CLy4-gHaHd?pid=ImgDet&rs=1"/> </a></code>
+	<code><a href = "https://getbootstrap.com/"> <img src = "https://img.icons8.com/color/50/000000/bootstrap.png"/> </a></code>
 </p><br>
 
 ## 👨🏻‍💻 Coding Profiles
