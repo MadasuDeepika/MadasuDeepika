@@ -8,10 +8,7 @@
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmadasudeeoika%2Fmadasudeepika&label=VISITORS&labelColor=%23d9e3f0&countColor=%232ccce4"  width="125" />
 </div>
 
-<p align="center">
-<img src="https://profile-counter.glitch.me/{MadasuDeepika}/count.svg"></p>
 
-<p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
@@ -20,6 +17,17 @@
 - 🌱 I’m currently learning on responsive page and javascripts.
 - 💞️ I’m looking to create things that betters everyone's life.
 - 📫 How to reach me https://www.linkedin.com/in/madasudeepika/
+
+Find me on Coding Platforms:
+<br></h2>
+
+
+[![LeetCode]()
+[![CodeChef]()
+[![HackerRank]()
+[![freeCodeCamp]()
+[![GFG]()
+
 
 <!---
 MadasuDeepika/MadasuDeepika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
