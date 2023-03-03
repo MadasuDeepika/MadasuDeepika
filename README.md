@@ -1,7 +1,7 @@
 <h1 align = "center">Hi, Everyone!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px width = 30px><br>I'm Madasu Deepika </h1>
 
 <p align = "center">
-<img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Frontend+Web+Developer;Always+learning+new+things"></p>
+<img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Machine+Learning+Enthusiast;Frontend+Web+Developer;Always+learning+new+things;Business+Analyst+Enthusiast"></p>
 
 <p align = "center">
 <img src = "gitartwork.svg" alt = "Gitartwork"></p><br>
