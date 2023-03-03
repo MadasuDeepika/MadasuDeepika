@@ -1,3 +1,5 @@
+<h1 align = "center">Hi, Everyone!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px width = 30px>I'm Madasu Deepika </h1>
+
 - 👋 Hi, I’m @MadasuDeepika
 - 👀 I’m interested in data science and data analytics.
 - 🌱 I’m currently learning on responsive page and javascripts.
