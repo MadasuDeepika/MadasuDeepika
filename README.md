@@ -23,7 +23,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/madasudeepika/
 
 <details><summary><h3>🏆 GitHub Profile Trophies</h3></summary>
-<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=Rakesh9100&layout=compact&theme=radical&column=4&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
+<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=MadasuDeepika&layout=compact&theme=radical&column=4&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
 </details>
 
 <details><summary><h3>⚡ GitHub Activity Graph</h3></summary>
@@ -39,7 +39,7 @@
 ## 🐍 A Snake Eating my Contribution Graph
 
 <p align = "center">
-<img src = "https://github.com/MadasuDeepika/MadasuDeepika/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+<img src = "https://github.com/MadasuDeepika/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p><br>
 
 <div align="center">
