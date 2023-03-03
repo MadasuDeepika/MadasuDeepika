@@ -17,7 +17,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 <p align = "center">
-<a href = "https://www.linkedin.com/in/madasudeepika/"><img src = "https://img.shields.io/badge/MADASUDEEPIKA%20MADASUDEEPIKA-blue?style=for-the-badge&logo=linkedin&labelColor=white&logoColor=blue" height="25"></a>
+<a href = "https://www.linkedin.com/in/madasudeepika/"><img src = "https://img.shields.io/badge/MADASU%20DEEPIKA-blue?style=for-the-badge&logo=linkedin&labelColor=white&logoColor=blue" height="25"></a>
 <a href = "mailto:madasudeepika15@gmail.com"
 
 - 👋 Hi, I’m @MadasuDeepika
