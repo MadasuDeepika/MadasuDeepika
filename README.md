@@ -67,9 +67,10 @@
 </details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<p align="center">																		 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=madasudeepika&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=madasudeepika&show_icons=true&theme=midnight-purple"
   media="(prefers-color-scheme: dark)"
 />
 <source
