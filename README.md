@@ -67,12 +67,17 @@
 </details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-<p align = "center">
-<a href = "https://github.com/MadasuDeepika">
-<img src = "https://github-readme-stats-madasudeepika.vercel.app/api?username=madasudeepika&show_icons=true&count_private=true&locale=en&theme=midnight-purple&layout=compact" alt = "Rakesh's Github Stats" height = 200px/></a>
-<img src = "https://github-readme-stats-madasudeepika.vercel.app/api/top-langs?username=madasudeepika&langs_count=15&layout=compact&locale=en&theme=midnight-purple" alt = "Languages Used" height = 200px/>
-<br><br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=madasudeepika&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=madasudeepika&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=madasudeepika&show_icons=true" />
+</picture>
 </p></details>
 
 <details><summary><h3>🏆 GitHub Profile Trophies</h3></summary>
