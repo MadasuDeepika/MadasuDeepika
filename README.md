@@ -68,7 +68,7 @@
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align = "center">
-<a href = "https://github.com/MadasuDeepika">
+<a href = "https://github.com/madasudeepika">
 <img src = "https://github-readme-stats-madasudeepika.vercel.app/api?username=madasudeepika&show_icons=true&count_private=true&locale=en&theme=midnight-purple&layout=compact" alt = "Madasu Deepika's Github Stats" height = 200px/></a>
 <img src = "https://github-readme-stats-madasudeepika.vercel.app/api/top-langs?username=madasudeepika&langs_count=15&layout=compact&locale=en&theme=midnight-purple" alt = "Languages Used" height = 200px/>
 <br><br>
@@ -83,11 +83,6 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=madasudeepika&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 </details>
 
-<h3>💫 GitHub Profile 3D</h3>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
 ## 🐍 A Snake Eating my Contribution Graph
 
