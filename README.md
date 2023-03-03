@@ -4,7 +4,9 @@
     <a href = "mailto: madasudeepika15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/madasudeepika15@gmail.com-D74E43?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </p>
  
-
+<div align="center">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgurjeetsinghvirdee%2Fgurjeetsinghvirdee&label=VISITORS&labelColor=%23d9e3f0&countColor=%232ccce4"  width="150" />
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
