@@ -87,7 +87,7 @@
 ## 🐍 A Snake Eating my Contribution Graph
 
 <p align = "center">
-<img src = "https://github.com/MadasuDeepika/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+<img src = "https://github.com/MadasuDeepika/MadasuDeepika/blob/output/github-contribution-grid-snake.gif" alt = "Snake Game"/>
 </p><br>
 
 <div align="center">
