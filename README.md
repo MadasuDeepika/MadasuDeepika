@@ -18,7 +18,7 @@
 
 <p align = "center">
 <a href = "https://www.linkedin.com/in/madasudeepika/"><img src = "https://img.shields.io/badge/MADASU%20DEEPIKA-blue?style=for-the-badge&logo=linkedin&labelColor=white&logoColor=blue" height="25"></a>
-<a href = "mailto:madasudeepika15@gmail.com"
+<a href = "mailto:madasudeepika15@gmail.com"><img src = "https://img.shields.io/badge/SAY%2C%20HI-D14836?style=for-the-badge&logo=gmail&labelColor=white&logoColor=D14836" height="25"></a></p>
 
 - 👋 Hi, I’m @MadasuDeepika
 - 👀 I’m interested in data science and data analytics.
