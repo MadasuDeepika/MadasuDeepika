@@ -13,7 +13,7 @@
 <a href = "mailto:madasudeepika15@gmail.com"><img src = "https://img.shields.io/badge/SAY%2C%20HI-D14836?style=for-the-badge&logo=gmail&labelColor=white&logoColor=D14836" height="25"></a></p>
 
 <div align="center">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmadasudeeoika%2Fmadasudeepika&label=VISITORS&labelColor=%&countColor="FF1493"  width="125" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmadasudeeoika%2Fmadasudeepika&label=VISITORS&labelColor=%&countColor="FF1883"  width="125" />
 </div>
 
 - 👋 Hi, I’m @MadasuDeepika
