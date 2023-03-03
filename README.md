@@ -5,7 +5,7 @@
  </p>
  
 <div align="center">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmadasudeeoika%2Fmadasudeepika&label=VISITORS&labelColor=%23d9e3f0&countColor=%232ccce4"  width="150" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmadasudeeoika%2Fmadasudeepika&label=VISITORS&labelColor=%23d9e3f0&countColor=%232ccce4"  width="120" />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
