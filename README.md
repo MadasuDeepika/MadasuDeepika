@@ -26,18 +26,7 @@
 - 🧑‍💻 Love Coding in Python and java mostly.
 - 🤓 Always in a try to `learn new things`.
 
-<table align = "center">
-  <tr>
-    <td align = "center"> 🌟 Web Development & Designing Intern at <a href = "https://oasisinfobyte.com/"><br>Oasis Infobyte</a> <br>in October'22 </td>
-    <td align = "center"> 🌟 Web Development Intern at <a href = "https://internship.thesparksfoundation.info/"><br>The Sparks Foundation</a> <br>in October'22, <b>Received LOR</b> </td>
-    <td align = "center"> 💻 Campus Ambassador Intern at <a href = "https://internbug.wixsite.com/internbug"><br>InternBug</a> <br>in October'22 </td>
-    <td align = "center"> 🌟 Web Development Intern at <a href = "https://codeclause.com/"><br>CodeClause</a> <br>in December'22, <b>Received LOR</b> </td>
-    <td align = "center"> 🌟 Web Developer Intern at <a href = "https://letsgrowmore.in/"><br>LetsGrowMore</a> <br>in December'22, <b>Received LOR</b> </td>
-</td>
-  </tr>
-</table>
-
-<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 ## 🚀 Preferred Programming Languages and Tools:
 <p align = "left">
@@ -75,7 +64,7 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> My Github Stats
 
 <details><summary><h3>🔥 Streak Stats</h3></summary>
-<p align = "center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=rakesh9100&theme=midnight-purple" alt = "MadasuDeepika"/></p>
+<p align = "center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=madasudeepika&theme=midnight-purple" alt = "MadasuDeepika"/></p>
 </details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
