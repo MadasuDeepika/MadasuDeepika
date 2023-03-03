@@ -1,5 +1,5 @@
 <h1 align = "center">Hi, Everyone!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px width = 30px><br>I'm Madasu Deepika </h1>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
 <p align="center">
     <a href = "mailto: madasudeepika15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gurjeetsinghvirdee@gmail.com-D74E43?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </p>
