@@ -22,7 +22,32 @@
 - 💞️ I’m looking to create things that betters everyone's life.
 - 📫 How to reach me https://www.linkedin.com/in/madasudeepika/
 
+<details><summary><h3>🏆 GitHub Profile Trophies</h3></summary>
+<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=Rakesh9100&layout=compact&theme=radical&column=4&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
+</details>
 
+<details><summary><h3>⚡ GitHub Activity Graph</h3></summary>
+<p align = "center"> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=MadasuDeepika&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
+</details>
+
+<h3>💫 GitHub Profile 3D</h3>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
+
+## 🐍 A Snake Eating my Contribution Graph
+
+<p align = "center">
+<img src = "https://github.com/Rakesh9100/MadasuDeepika/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p><br>
+
+<div align="center">
+
+### :heavy_check_mark: Want to know more about me, Please visit &nbsp; <a href = "https://rakeshroshan.netlify.app/"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> &nbsp; :100:
+
+### Show some ❤️ by starring some of my repositories !!
+</div>
 
 <!---
 MadasuDeepika/MadasuDeepika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
