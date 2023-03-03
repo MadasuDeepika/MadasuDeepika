@@ -43,10 +43,10 @@
 
 ## 👨🏻‍💻 Coding Profiles
 <p align = "left">
-<a href = "https://www.hackerrank.com/roshanrakesh7362?hr_r=1"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white"/></a>
-<a href = "https://leetcode.com/Rakesh9100/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=white"/></a>
-<a href = "https://auth.geeksforgeeks.org/user/roshanrakesh7362"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white"/></a>
-<a href = "https://www.cloudskillsboost.google/public_profiles/29e851f3-5a90-4e77-87ae-8b1d1a2c10b3"><img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=oval-square&logo=google-cloud&logoColor=white"/></a>
+<a href = "https://www.hackerrank.com/madasu_deepika21"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white"/></a>
+<a href = "https://leetcode.com/Madasu_Deepika/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=white"/></a>
+<a href = "https://auth.geeksforgeeks.org/user/madasudeepika2019"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white"/></a>
+<a href = "https://unstop.com/u/MadasuDeepika"><img src = "https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/svg/unstop-logo.svg&logo=unstop&logoColor=white"/></a>
 </p><br>
 
 ## 🔗 Connect with me:
