@@ -16,7 +16,7 @@
 </div>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
-<picture> <img align = "right" src = "https://camo.githubusercontent.com/4ca1de15ed694744b0f8bc51394e56748025f8c87535df88601aaf1ce4b0109b/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f74736b4d682e706e67" width = 250px></picture>
+<picture> <img align = "right" src = "https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif" width = 250px></picture>
 - 👋 Hi, I’m @MadasuDeepika
 - 👀 I’m interested in data science and data analytics.
 - 🌱 I’m currently learning on responsive page and javascripts.
