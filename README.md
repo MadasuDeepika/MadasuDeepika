@@ -16,13 +16,13 @@
 </div>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
-<picture> <img align = "right" src = "https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif" width = 250px></picture>
+<picture> <img align = "right" src = "https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif" width = 300px></picture>
 - 👋 Hi, I’m @MadasuDeepika
 - 👀 I’m interested in data science and data analytics.
 - 🌱 I’m currently learning on responsive page and javascripts.
 - 💞️ I’m looking to create things that betters everyone's life.
 - 📫 I am a prefinal year CSE Student at [`VIT Chennai`](https://chennai.vit.ac.in).
-- 🧑‍💻 Love Coding in Python and java mostly.
+- 🧑‍💻 Love Coding in Python.
 - 🤓 Always in a try to `learn new things`.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
