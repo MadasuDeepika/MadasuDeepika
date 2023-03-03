@@ -39,12 +39,12 @@
 ## 🐍 A Snake Eating my Contribution Graph
 
 <p align = "center">
-<img src = "https://github.com/Rakesh9100/MadasuDeepika/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+<img src = "https://github.com/MadasuDeepika/MadasuDeepika/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p><br>
 
 <div align="center">
 
-### :heavy_check_mark: Want to know more about me, Please visit &nbsp; <a href = "https://rakeshroshan.netlify.app/"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> &nbsp; :100:
+### :heavy_check_mark: Want to know more about me, Please visit &nbsp; <a href = ""> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> &nbsp; :100:
 
 ### Show some ❤️ by starring some of my repositories !!
 </div>
