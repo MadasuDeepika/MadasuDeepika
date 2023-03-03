@@ -46,7 +46,7 @@
 <a href = "https://www.hackerrank.com/madasu_deepika21"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white"/></a>
 <a href = "https://leetcode.com/Madasu_Deepika/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=white"/></a>
 <a href = "https://auth.geeksforgeeks.org/user/madasudeepika2019"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white"/></a>
-<a href = "https://unstop.com/u/MadasuDeepika"><img src ="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/svg/unstop-logo.svg"  width = 500px></a>
+<a href = "https://unstop.com/u/MadasuDeepika"><img src ="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/svg/unstop-logo.svg"  width = 50px height=20px></a>
 </p><br>
 
 ## 🔗 Connect with me:
