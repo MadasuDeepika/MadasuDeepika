@@ -30,7 +30,7 @@
 ## 🚀 Preferred Programming Languages and Tools:
 <p align = "left">
 	<code><a href = "https://www.python.org/"> <img src = "https://img.icons8.com/color/50/000000/python--v1.png"/> </a></code>
-	<code><a href = "https://www.tableau.com/"> <img src = "https://clipground.com/images/color/50/000000/tableau-icon-clipart-2.jpg"/> </a></code>
+	<code><a href = "https://www.tableau.com/"> <img src = "https://candid.technology/wp-content/uploads/2020/04/Tableau-logo-11-e1586614523938.jpg" width = 105px height=45px/> </a></code>
 <code><a href = "https://www.rstudio.com/categories/rstudio-ide/"> <img src = "https://i.ytimg.com/vi/bB1V7RXEYXM/maxresdefault.jpg" width = 45px height=45px> </a></code>
 	<code><a href = "https://www.cprogramming.com/"> <img src = "https://img.icons8.com/color/50/000000/c-programming.png"/> </a></code>
     	<code><a href = "https://www.learncpp.com/"> <img src = "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a></code>
