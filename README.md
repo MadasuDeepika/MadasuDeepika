@@ -29,12 +29,14 @@
 
 ## 🚀 Preferred Programming Languages and Tools:
 <p align = "left">
+	<code><a href = "https://www.python.org/"> <img src = "https://img.icons8.com/color/50/000000/python--v1.png"/> </a></code>
+	<code><a href = "https://www.tableau.com/"> <img src = "https://img.icons8.com/color/50/000000/tableau.png"/> </a></code>
+	<code><a href = "https://www.rstudio.com/categories/rstudio-ide/"> <img src = "https://img.icons8.com/color/50/000000/rstudio.png"/> </a></code>
 	<code><a href = "https://www.cprogramming.com/"> <img src = "https://img.icons8.com/color/50/000000/c-programming.png"/> </a></code>
     	<code><a href = "https://www.learncpp.com/"> <img src = "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a></code>
     	<code><a href = "https://html.com/"> <img src = "https://img.icons8.com/color/50/000000/html-5.png"/> </a></code>
     	<code><a href = "https://web.dev/learn/css/"> <img src = "https://img.icons8.com/color/50/000000/css3.png"/> </a></code>
     	<code><a href = "https://www.javascript.com/"> <img src = "https://img.icons8.com/color/50/FAB005/javascript--v1.png"/> </a></code>
-	<code><a href = "https://www.python.org/"> <img src = "https://img.icons8.com/color/50/000000/python--v1.png"/> </a></code>
 	<code><a href = "https://docs.oracle.com/javase/tutorial/"> <img src = "https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> </a></code>
     	<code><a href = "https://code.visualstudio.com/"> <img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a></code>
 	<code><a href = "https://git-scm.com/"> <img src = "https://img.icons8.com/color/50/000000/git.png"/> </a></code>
