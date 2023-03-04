@@ -30,8 +30,8 @@
 ## 🚀 Preferred Programming Languages and Tools:
 <p align = "left">
 	<code><a href = "https://www.python.org/"> <img src = "https://img.icons8.com/color/50/000000/python--v1.png"/> </a></code>
-	<code><a href = "https://www.tableau.com/"> <img src = "https://clipground.com/images/tableau-icon-clipart-2.jpg"/ width = 20px height=20px> </a></code>
-<code><a href = "https://www.rstudio.com/categories/rstudio-ide/"> <img src = "https://p7.hiclipart.com/preview/1012/958/423/5bc1b7352999c.jpg"/ width = 50px height=50px> </a></code>
+	<code><a href = "https://www.tableau.com/"> <img src = "https://clipground.com/images/color/50/000000/tableau-icon-clipart-2.jpg"/> </a></code>
+<code><a href = "https://www.rstudio.com/categories/rstudio-ide/"> <img src = "https://p7.hiclipart.com/preview/1012/958/423/5bc1b7352999c.jpg" width = 50px height=50px> </a></code>
 	<code><a href = "https://www.cprogramming.com/"> <img src = "https://img.icons8.com/color/50/000000/c-programming.png"/> </a></code>
     	<code><a href = "https://www.learncpp.com/"> <img src = "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a></code>
     	<code><a href = "https://html.com/"> <img src = "https://img.icons8.com/color/50/000000/html-5.png"/> </a></code>
