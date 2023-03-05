@@ -88,7 +88,7 @@
 <details><summary><h3>🏆 GitHub Profile Trophies</h3></summary>
 											    
 
-<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=prince4989&layout=compact&theme=radical&column=4&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
+<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=madasudeepika&layout=compact&theme=midnight-purple&column=4&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
 </details>
 
 <details><summary><h3>⚡ GitHub Activity Graph</h3></summary>
