@@ -60,7 +60,8 @@
 <a href = ""><img src = "https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = ""><img src = "https://img.icons8.com/fluency/48/000000/discord.png"/></a>
 
-<p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> My Github Stats
 
