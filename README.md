@@ -93,7 +93,7 @@
 </details>
 
 <details><summary><h3>⚡ GitHub Activity Graph</h3></summary>
-<p align = "center"> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=madasudeepika&theme=radical&area=true&radius=14" alt = "Activity Graph") </p>
+<p align = "center"> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=madasudeepika&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 </details>
 
 
