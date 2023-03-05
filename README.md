@@ -87,7 +87,7 @@
 
 <details><summary><h3>🏆 GitHub Profile Trophies</h3></summary>
 											    
-<p align = "center"> [![trophy](https://github-profile-trophy.vercel.app/?username=madasudeepika&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=madasudeepika&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 <p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=madasudeepika&layout=compact&theme=radical&column=4&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
 </details>
 
