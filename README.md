@@ -71,6 +71,9 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align="center">																		 
 <picture>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=midnight-purple)](https://github.com/ryo-ma/github-profile-trophy)
+
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=madasudeepika&show_icons=true&theme=midnight-purple"
   media="(prefers-color-scheme: dark)"
