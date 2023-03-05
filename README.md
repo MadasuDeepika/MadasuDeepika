@@ -89,10 +89,11 @@
 											    
 
 <p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=madasudeepika&layout=compact&theme=redical&column=4&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
+<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=madasudeepika&layout=compact&theme=radical&column=4&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
 </details>
 
 <details><summary><h3>⚡ GitHub Activity Graph</h3></summary>
-<p align = "center"> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=madasudeepika&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
+<p align = "center"> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=madasudeepika&theme=radical&area=true&radius=14" alt = "Activity Graph") </p>
 </details>
 
 
