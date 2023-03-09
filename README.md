@@ -8,6 +8,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
+
 <p align = "center">
 <a href = "https://www.linkedin.com/in/madasudeepika/"><img src = "https://img.shields.io/badge/Contact%20Me-blue?style=for-the-badge&logo=linkedin&labelColor=white&logoColor=blue" height="25"></a>
 <a href = "mailto:madasudeepika15@gmail.com"><img src = "https://img.shields.io/badge/SAY%2C%20HI-D14836?style=for-the-badge&logo=gmail&labelColor=white&logoColor=D14836" height="25"></a></p>
